@@ -1,0 +1,4 @@
+export const categoryTypes = {
+  LOAD_CATEGORIES: "LOAD_CATEGORIES",
+  SELECT_CATEGORY: "SELECT_CATEGORY",
+};
